@@ -1,3 +1,2 @@
-BeautifulSoup==3.2.1
-lxml==3.5.0b1
+pytidylib==0.2.4
 wsgiref==0.1.2
